@@ -1,4 +1,4 @@
-## 🏄🏻‍♂️ Hi there
+## 🏄🏻‍♂️ Hi there!
 
 I'm Fedya Katkov, an indie iOS developer and Codewars enjoyer with some experience in graphics development and machine learning. All my projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. ✨
 
