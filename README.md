@@ -26,8 +26,8 @@ Here are some technologies I use for every day development:
 These are top 3 platforms I commonly develop applications for
 
 <img align="left" alt="Swift" width="60" height="60" style="padding-right: 10px;" src="https://cdn.simpleicons.org/ios/fff" />
-<img align="left" alt="Swift" width="60" height="60" style="padding-right: 10px;" src="https://cdn.simpleicons.org/macos/fff" />
 <img align="left" alt="Swift" width="60" height="60" style="padding-right: 10px;" src="https://cdn.simpleicons.org/appletv/fff" />
+<img align="left" alt="Swift" width="60" height="60" style="padding-right: 10px;" src="https://cdn.simpleicons.org/arduino/00878f" />
 <br />
 <br />
 
@@ -37,6 +37,12 @@ These are top 3 platforms I commonly develop applications for
 {
   "Name": "Katkov Fedor",
   "Location": "Moscow, Russia",
+  "Spoken languages": [
+    {
+      "Russian",
+      "English"
+    }
+  ],
   "Education": [
     {
       "HSE University, Bachelor of Computer Science",
@@ -50,6 +56,13 @@ These are top 3 platforms I commonly develop applications for
       "Game engines",
       "VR/AR development",
       "Machine Learning"
+    }
+  ],
+  "Programming languages": [
+    {
+      "Swift",
+      "C++",
+      "Lua"
     }
   ]
 }
