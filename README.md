@@ -37,18 +37,20 @@ These are top 3 platforms I commonly develop applications for
 {
   "Name": "Katkov Fedor",
   "Location": "Moscow, Russia",
-  "Education":
-  [
-    "HSE university, Bachelor of Computer Science",
-    "Coursera, Google UX Design Professional Certificate"
+  "Education": [
+    {
+      "HSE University, Bachelor of Computer Science",
+      "Coursera, Google UX Design Professional Certificate"
+    }
   ],
-  "Fields of interest":
-  [
-    "Software Engineering",
-    "iOS Development",
-    "Game engines",
-    "VR/AR development",
-    "Machine Learning"
+  "Fields of interest": [
+    {
+      "Software Engineering",
+      "iOS Development",
+      "Game engines",
+      "VR/AR development",
+      "Machine Learning"
+    }
   ]
 }
 ```
