@@ -21,7 +21,7 @@ Here are some technologies I use for every day development:
 <br />
 
 
-## Platforms 🖥️
+## 🖥️ Platforms
 
 These are top 2 platforms I commonly develop applications for
 
