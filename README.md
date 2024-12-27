@@ -11,6 +11,7 @@ Here are some technologies I use for every day development:
 <img align="left" alt="Lua" width="30" height="30" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/lua.svg" />
 <img align="left" alt="Bash" width="30" height="30" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/gnubash.svg" />
 <img align="left" alt="Google Gemini" width="30" height="30" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/googlegemini.svg" />
+<br />
 
 ## Technologies ⌨️
 
