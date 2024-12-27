@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi there 🏄🏻‍♂️
 
+I'm Fedya Katkov, an indie iOS developer with some experience in graphics development based in Russia. All my projects are built from the ground up, from planning and designing all the way to solving real-life problems with code ✨
 
-**charming-whaley/charming-whaley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Languages & technologies 🧑‍💻
 
-Here are some ideas to get you started:
+Here are some technologies I use for every day development:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<img width="30" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/swift.svg" />
+<img width="30" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/cplusplus.svg" />
+<img width="30" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/lua.svg" />
+<img width="30" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/gnubash.svg" />
+<img width="30" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/googlegemini.svg" />
+<img width="30" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/figma.svg" />
 
+## Technologies ⌨️
+
+Software that makes me happy:
+
+<img width="30" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/xcode.svg" />
+<img width="30" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/figma.svg" />
+<img width="30" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/warp.svg" />
+<img width="30" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/firefoxbrowser.svg" />
