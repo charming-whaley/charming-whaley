@@ -31,7 +31,7 @@ These are top 3 platforms I commonly develop applications for
 <br />
 <br />
 
-## 🚀 Interests
+## 🚀 Me & My Interests
 
 ```json
 {
