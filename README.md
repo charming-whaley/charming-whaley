@@ -27,7 +27,6 @@ These are top 3 platforms I commonly develop applications for
 
 <img align="left" alt="Swift" width="60" height="60" style="padding-right: 10px;" src="https://cdn.simpleicons.org/ios/fff" />
 <img align="left" alt="Swift" width="60" height="60" style="padding-right: 10px;" src="https://cdn.simpleicons.org/appletv/fff" />
-<img align="left" alt="Swift" width="60" height="60" style="padding-right: 10px;" src="https://cdn.simpleicons.org/arduino/00878f" />
 <br />
 <br />
 
