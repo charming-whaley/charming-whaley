@@ -19,6 +19,7 @@ Here are some technologies I use for every day development:
 <img align="left" alt="Firefox" style="padding-right: 10px;" width="50" height="50" src="https://cdn.simpleicons.org/firefoxbrowser/ff7139" />
 <br />
 
+
 ## Platforms 🖥️
 
 These are top 3 platforms I commonly develop applications for
