@@ -7,6 +7,9 @@ I'm Fedya Katkov, an indie iOS developer with some experience in graphics develo
 Here are some technologies I use for every day development:
 
 <img align="left" alt="Swift" width="30" height="30" style="padding-right: 10px;" src="https://cdn.simpleicons.org/swift/f05138" />
+<img align="left" alt="C++" width="30" height="30" style="padding-right: 10px;" src="https://cdn.simpleicons.org/cplusplus/00599c" />
+<img align="left" alt="Lua" width="30" height="30" style="padding-right: 10px;" src="https://cdn.simpleicons.org/lua/2c2d72" />
+<img align="left" alt="Bash" width="30" height="30" style="padding-right: 10px;" src="https://cdn.simpleicons.org/gnubash/4eaa25" />
 
 <img align="left" alt="Swift" width="30" height="30" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/swift/f05138" />
 <img align="left" alt="C++" width="30" height="30" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/cplusplus.svg" />
