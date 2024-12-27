@@ -18,6 +18,7 @@ Here are some technologies I use for every day development:
 <img align="left" alt="Figma" style="padding-right: 10px;" width="40" height="40" src="https://cdn.simpleicons.org/figma/7952b3" />
 <img align="left" alt="Firefox" style="padding-right: 10px;" width="40" height="40" src="https://cdn.simpleicons.org/firefoxbrowser/ff7139" />
 <br />
+<br />
 
 
 ## Platforms 🖥️
