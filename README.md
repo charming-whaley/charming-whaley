@@ -17,7 +17,9 @@ Here are some technologies I use for every day development:
 
 Software that makes me happy:
 
-<img align="left" alt="Xcode" style="padding-right: 10px;" width="30" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/xcode.svg" />
-<img align="left" alt="Figma" style="padding-right: 10px;" width="30" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/figma.svg" />
-<img align="left" alt="Warp" style="padding-right: 10px;" width="30" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/warp.svg" />
-<img align="left" alt="Firefox" style="padding-right: 10px;" width="30" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/firefoxbrowser.svg" />
+
+
+<img align="left" alt="Xcode" style="padding-right: 10px;" width="30" height="30" src="https://cdn.simpleicons.org/xcode/147efb" />
+<img align="left" alt="Figma" style="padding-right: 10px;" width="30" height="30" src="https://cdn.simpleicons.org/figma/f24e1e" />
+<img align="left" alt="Warp" style="padding-right: 10px;" width="30" height="30" src="https://cdn.simpleicons.org/warp/01a4ff" />
+<img align="left" alt="Firefox" style="padding-right: 10px;" width="30" height="30" src="https://cdn.simpleicons.org/firefoxbrowser/ff7139" />
