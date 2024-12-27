@@ -1,8 +1,8 @@
-## Hi there 🏄🏻‍♂️
+## 🏄🏻‍♂️ Hi there
 
-I'm Fedya Katkov, an indie iOS developer with some experience in graphics development and machine learning. All my projects are built from the ground up, from planning and designing all the way to solving real-life problems with code ✨
+I'm Fedya Katkov, an indie iOS developer and Codewars enjoyer with some experience in graphics development and machine learning. All my projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. ✨
 
-## Languages & technologies 🧑‍💻
+## 🧑‍💻 Languages & technologies
 
 Here are some technologies I use for every day development:
 
@@ -28,3 +28,25 @@ These are top 3 platforms I commonly develop applications for
 <img align="left" alt="Swift" width="60" height="60" style="padding-right: 10px;" src="https://cdn.simpleicons.org/ios/fff" />
 <img align="left" alt="Swift" width="60" height="60" style="padding-right: 10px;" src="https://cdn.simpleicons.org/macos/fff" />
 <img align="left" alt="Swift" width="60" height="60" style="padding-right: 10px;" src="https://cdn.simpleicons.org/appletv/fff" />
+
+## 🚀 Interests
+
+```json
+{
+  "Name": "Katkov Fedor",
+  "Location": "Moscow, Russia",
+  "Education":
+  [
+    "HSE university, Bachelor of Computer Science",
+    "Coursera, Google UX Design Professional Certificate"
+  ],
+  "Fields of interest":
+  [
+    "Software Engineering",
+    "iOS Development",
+    "Game engines",
+    "VR/AR development",
+    "Machine Learning"
+  ]
+}
+```
