@@ -23,9 +23,6 @@
   </a>
 </div>
 
-[![Badge1]([https://img.shields.io/badge/Badge1-blue](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&labelColor=black))]([https://example.com](https://github.com/charming-whaley))
-[![Badge2]([https://img.shields.io/badge/Badge2-green](https://img.shields.io/badge/LinkedIn-236CFF?style=for-the-badge&logo=invision&logoColor=fff&labelColor=black))]([https://example.com](https://www.linkedin.com/in/katkov-fedor/))
-
 <hr />
 
 ## 🧑‍💻 Languages & technologies
