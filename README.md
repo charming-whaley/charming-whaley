@@ -4,18 +4,18 @@
 
 <hr />
 
-<div align="center" style="padding: 10px;">
+<div align="center">
   <p><b>You may find me here</b></p>
-  <a href="https://github.com/charming-whaley" style="padding-right: 10px;">
+  <a href="https://github.com/charming-whaley">
     <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&labelColor=black" />
   </a>
-  <a href="https://www.linkedin.com/in/katkov-fedor/" style="padding-right: 10px;">
+  <a href="https://www.linkedin.com/in/katkov-fedor/">
     <img src="https://img.shields.io/badge/LinkedIn-236CFF?style=for-the-badge&logo=invision&logoColor=fff&labelColor=black" />
   </a>
-  <a href="https://www.codewars.com/users/charming_whaley" style="padding-right: 10px;">
+  <a href="https://www.codewars.com/users/charming_whaley">
     <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=B1361E&labelColor=black" />
   </a>
-  <a href="https://leetcode.com/u/charming_whaley/" style="padding-right: 10px;">
+  <a href="https://leetcode.com/u/charming_whaley/">
     <img src="https://img.shields.io/badge/Leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=black" />
   </a>
   <a href="https://www.reddit.com/user/jockey787/">
