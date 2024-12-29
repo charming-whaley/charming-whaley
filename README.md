@@ -4,7 +4,7 @@
 
 <hr />
 
-<div align="center">
+<div align="center" style="padding: 10px;">
   <p><b>You may find me here</b></p>
   <a href="https://github.com/charming-whaley" style="padding-right: 10px;">
     <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&labelColor=black" />
