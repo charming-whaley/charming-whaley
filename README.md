@@ -3,21 +3,22 @@
 💫 I'm Fedya Katkov, an indie iOS developer and Codewars enjoyer with some experience in machine learning. All my projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. 💫
 
 <div>
-  <a href="">
-    <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&labelColor=black" />
-  </a>
-</div>
-
-<div id="badges">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+  <p>You may follow me here</p>
+  
+  <div>
+    <a href="https://github.com/charming-whaley">
+      <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&labelColor=black" />
+    </a>
+    <a href="https://www.codewars.com/users/charming_whaley">
+      <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=B1361E&labelColor=black" />
+    </a>
+    <a href="https://leetcode.com/u/charming_whaley/">
+      <img src="https://img.shields.io/badge/Leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=black" />
+    </a>
+    <a href="https://www.reddit.com/user/jockey787/">
+      <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=FF4500&labelColor=black" />
+    </a>
+  </div>
 </div>
 
 ## 🧑‍💻 Languages & technologies
