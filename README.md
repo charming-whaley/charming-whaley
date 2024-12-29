@@ -3,9 +3,12 @@
 💫 I'm Fedya Katkov, an indie iOS developer and Codewars enjoyer with some experience in machine learning. All my projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. 💫
 
 <div align="center">
-  <p><b>You may follow me here</b></p>
+  <p><b>You may find me here</b></p>
   <a href="https://github.com/charming-whaley">
     <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&labelColor=black" />
+  </a>
+  <a href="https://www.linkedin.com/in/katkov-fedor/">
+    <img src="https://img.shields.io/badge/LinkedIn-236CFF?style=for-the-badge&logo=invision&logoColor=fff&labelColor=black" />
   </a>
   <a href="https://www.codewars.com/users/charming_whaley">
     <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=B1361E&labelColor=black" />
