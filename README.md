@@ -3,9 +3,8 @@
 💫 I'm Fedya Katkov, an indie iOS developer and Codewars enjoyer with some experience in machine learning. All my projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. 💫
 
 <div>
-  <p>You may follow me here</p>
-  
   <div>
+    <p>You may follow me here</p>
     <a href="https://github.com/charming-whaley">
       <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&labelColor=black" />
     </a>
