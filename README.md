@@ -34,4 +34,3 @@ Here are some technologies I use for every-day development
 <img align="left" alt="CoreML" width="60px" height="60px" src="https://developer.apple.com/assets/elements/icons/core-ml/core-ml-128x128_2x.png" />
 <img align="left" alt="Apple Intelligence" width="60px" height="60px" src="https://developer.apple.com/assets/elements/icons/apple-intelligence/apple-intelligence-96x96_2x.png" />
 <img align="left" alt="Xcode" width="60px" height="60px" src="https://developer.apple.com/assets/elements/icons/xcode-12/xcode-12-96x96_2x.png" />
-<img alt="Tuist" width="60px" height="60px" src="https://docs.tuist.dev/logo.png" />
