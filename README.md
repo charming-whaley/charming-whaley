@@ -1,9 +1,6 @@
 ## 🏄🏻‍♂️ Hi there!
 
 💫 I'm Fedya Katkov, an indie iOS developer and Codewars enjoyer with some experience in machine learning. All my projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. 💫
-
-<hr />
-
 <div align="center">
   <p><b>You may find me here</b></p>
   <a href="https://github.com/charming-whaley">
@@ -23,65 +20,18 @@
   </a>
 </div>
 
-<hr />
-
 ## 🧑‍💻 Languages & technologies
 
-Here are some technologies I use for every day development:
+Here are some technologies I use for every-day development
 
-<img align="left" alt="Swift" width="40" height="40" style="padding-right: 10px;" src="https://cdn.simpleicons.org/swift/f05138" />
-<img align="left" alt="C++" width="40" height="40" style="padding-right: 10px;" src="https://cdn.simpleicons.org/cplusplus/00599c" />
-<img align="left" alt="Bash" width="40" height="40" style="padding-right: 10px;" src="https://cdn.simpleicons.org/gnubash/4eaa25" />
-<img align="left" alt="Bash" width="40" height="40" style="padding-right: 10px;" src="https://cdn.simpleicons.org/codewars/b1361e" />
-<img align="left" alt="Python Pandas" style="padding-right: 10px;" width="40" height="40" src="https://cdn.simpleicons.org/pandas/150458" />
-<img align="left" alt="TensorFlow" style="padding-right: 10px;" width="40" height="40" src="https://cdn.simpleicons.org/tensorflow/ff6f00" />
-<img align="left" alt="Xcode" style="padding-right: 10px;" width="40" height="40" src="https://cdn.simpleicons.org/xcode/147efb" />
-<img align="left" alt="Figma" style="padding-right: 10px;" width="40" height="40" src="https://cdn.simpleicons.org/figma/7952b3" />
-<img align="left" alt="Firefox" style="padding-right: 10px;" width="40" height="40" src="https://cdn.simpleicons.org/firefoxbrowser/ff7139" />
-<br />
-<br />
-
-
-## 🖥️ Platforms
-
-These are top 2 platforms I commonly develop applications for
-
-<img align="left" alt="Swift" width="60" height="60" style="padding-right: 10px;" src="https://cdn.simpleicons.org/ios/fff" />
-<img align="left" alt="Swift" width="60" height="60" style="padding-right: 10px;" src="https://cdn.simpleicons.org/appletv/fff" />
-<br />
-<br />
-
-## 🚀 Me & My Interests
-
-```json
-{
-  "Name": "Katkov Fedor",
-  "Location": "Moscow, Russia",
-  "Spoken languages": [
-    {
-      "Russian",
-      "English"
-    }
-  ],
-  "Education": [
-    {
-      "HSE University, Bachelor of Computer Science",
-      "Coursera, Google UX Design Professional Certificate"
-    }
-  ],
-  "Fields of interest": [
-    {
-      "Software Engineering",
-      "iOS Development",
-      "VR/AR development",
-      "Machine Learning"
-    }
-  ],
-  "Programming languages": [
-    {
-      "Swift",
-      "C++"
-    }
-  ]
-}
-```
+<img align="left" alt="Swift" width="60px" height="60px" src="https://avatars.githubusercontent.com/u/42816656?s=280&v=4" />
+<img align="left" alt="SwiftUI" width="60px" height="60px" src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" />
+<img align="left" alt="SwiftData" width="60px" height="60px" src="https://developer.apple.com/assets/elements/icons/swiftdata/swiftdata-96x96_2x.png" />
+<img align="left" alt="WeatherKit" width="60px" height="60px" src="https://developer.apple.com/assets/elements/icons/weatherkit/weatherkit-96x96_2x.png" />
+<img align="left" alt="CloudKit" width="60px" height="60px" src="https://www.myuiviews.com/img/cloudkit@2x.png" />
+<img align="left" alt="ARKit" width="60px" height="60px" src="https://static.wikia.nocookie.net/ipod/images/d/d1/ARKit_2_icon.png/revision/latest?cb=20220417062630" />
+<img align="left" alt="Metal" width="60px" height="60px" src="https://developer.apple.com/assets/elements/icons/metal/metal-96x96_2x.png" />
+<img align="left" alt="CoreML" width="60px" height="60px" src="https://developer.apple.com/assets/elements/icons/core-ml/core-ml-128x128_2x.png" />
+<img align="left" alt="Apple Intelligence" width="60px" height="60px" src="https://developer.apple.com/assets/elements/icons/apple-intelligence/apple-intelligence-96x96_2x.png" />
+<img align="left" alt="Xcode" width="60px" height="60px" src="https://developer.apple.com/assets/elements/icons/xcode-12/xcode-12-96x96_2x.png" />
+<img alt="Tuist" width="60px" height="60px" src="https://docs.tuist.dev/logo.png" />
