@@ -1,6 +1,5 @@
 ## 🏄🏻‍♂️ Hi there!
-
-💫 I'm Fedya Katkov, an indie iOS developer and Codewars enjoyer with some experience in machine learning. All my projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. 💫
+<p>💫 I'm Fedya, an indie iOS and C++ developer with some experience in Data Science. All my projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. In some case Codewars/Codeforces enjoyer</p>
 <div align="center">
   <p><b>You may find me here</b></p>
   <a href="https://www.linkedin.com/in/katkov-fedor/">
@@ -17,10 +16,9 @@
   </a>
 </div>
 
-## 🧑‍💻 Languages & technologies
+## 🧑‍💻 Tech Stack
 
-<p align="center">Here are some technologies I use for everyday development</p>
-
+<p align="center">Technologies I use for every-day development</p>
 <table align="center">
   <tr>
     <td align="center">
@@ -52,18 +50,3 @@
     </td>
   </tr>
 </table>
-
-
-<div align="center">
-  Here are some technologies I use for every-day development
-
-  <img align="left" alt="Swift" width="60px" height="60px" src="https://avatars.githubusercontent.com/u/42816656?s=280&v=4" />
-  <img align="left" alt="SwiftUI" width="60px" height="60px" src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" />
-  <img align="left" alt="WeatherKit" width="60px" height="60px" src="https://developer.apple.com/assets/elements/icons/weatherkit/weatherkit-96x96_2x.png" />
-  <img align="left" alt="CloudKit" width="60px" height="60px" src="https://www.myuiviews.com/img/cloudkit@2x.png" /><br/>CloudKit
-  <img align="left" alt="ARKit" width="60px" height="60px" src="https://static.wikia.nocookie.net/ipod/images/d/d1/ARKit_2_icon.png/revision/latest?cb=20220417062630" />
-  <img align="left" alt="CoreML" width="60px" height="60px" src="https://developer.apple.com/assets/elements/icons/core-ml/core-ml-128x128_2x.png" />
-  <img align="left" alt="SwiftData" width="60px" height="60px" src="https://developer.apple.com/assets/elements/icons/swiftdata/swiftdata-96x96_2x.png" />
-  <img align="left" alt="Metal" width="60px" height="60px" src="https://developer.apple.com/assets/elements/icons/metal/metal-96x96_2x.png" />
-  <img align="left" alt="Apple Intelligence" width="60px" height="60px" src="https://developer.apple.com/assets/elements/icons/apple-intelligence/apple-intelligence-96x96_2x.png" />
-</div>
