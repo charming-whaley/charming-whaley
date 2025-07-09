@@ -19,6 +19,17 @@
 
 ## 🧑‍💻 Languages & technologies
 
+<p align="center">Here are some technologies I use for everyday development</p>
+
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://avatars.githubusercontent.com/u/42816656?s=280&v=4" width="60px"><br/>Swift</td>
+    <td align="center"><img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" width="60px"><br/>SwiftUI</td>
+    <td align="center"><img src="https://developer.apple.com/assets/elements/icons/weatherkit/weatherkit-96x96_2x.png" width="60px"><br/>WeatherKit</td>
+  </tr>
+</table>
+
+
 <div align="center">
   Here are some technologies I use for every-day development
 
