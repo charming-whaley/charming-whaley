@@ -4,7 +4,7 @@
 <div align="center">
   <p><b>You may find me here</b></p>
   <a href="https://www.linkedin.com/in/katkov-fedor/">
-    <img src="https://img.shields.io/badge/LinkedIn-236CFF?style=for-the-badge&logo=invision&logoColor=fff&labelColor=black" />
+    <img src="https://img.shields.io/badge/LinkedIn-236CFF?style=for-the-badge&logo=linkedin&logoColor=fff&labelColor=black" />
   </a>
   <a href="https://leetcode.com/u/charming_whaley/">
     <img src="https://img.shields.io/badge/Leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=black" />
