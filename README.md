@@ -19,14 +19,16 @@
 
 ## 🧑‍💻 Languages & technologies
 
-Here are some technologies I use for every-day development
+<div align="center">
+  Here are some technologies I use for every-day development
 
-<img align="left" alt="Swift" width="60px" height="60px" src="https://avatars.githubusercontent.com/u/42816656?s=280&v=4" />
-<img align="left" alt="SwiftUI" width="60px" height="60px" src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" />
-<img align="left" alt="WeatherKit" width="60px" height="60px" src="https://developer.apple.com/assets/elements/icons/weatherkit/weatherkit-96x96_2x.png" />
-<img align="left" alt="CloudKit" width="60px" height="60px" src="https://www.myuiviews.com/img/cloudkit@2x.png" />
-<img align="left" alt="ARKit" width="60px" height="60px" src="https://static.wikia.nocookie.net/ipod/images/d/d1/ARKit_2_icon.png/revision/latest?cb=20220417062630" />
-<img align="left" alt="CoreML" width="60px" height="60px" src="https://developer.apple.com/assets/elements/icons/core-ml/core-ml-128x128_2x.png" />
-<img align="left" alt="SwiftData" width="60px" height="60px" src="https://developer.apple.com/assets/elements/icons/swiftdata/swiftdata-96x96_2x.png" />
-<img align="left" alt="Metal" width="60px" height="60px" src="https://developer.apple.com/assets/elements/icons/metal/metal-96x96_2x.png" />
-<img align="left" alt="Apple Intelligence" width="60px" height="60px" src="https://developer.apple.com/assets/elements/icons/apple-intelligence/apple-intelligence-96x96_2x.png" />
+  <img align="left" alt="Swift" width="60px" height="60px" src="https://avatars.githubusercontent.com/u/42816656?s=280&v=4" />
+  <img align="left" alt="SwiftUI" width="60px" height="60px" src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" />
+  <img align="left" alt="WeatherKit" width="60px" height="60px" src="https://developer.apple.com/assets/elements/icons/weatherkit/weatherkit-96x96_2x.png" />
+  <img align="left" alt="CloudKit" width="60px" height="60px" src="https://www.myuiviews.com/img/cloudkit@2x.png" />
+  <img align="left" alt="ARKit" width="60px" height="60px" src="https://static.wikia.nocookie.net/ipod/images/d/d1/ARKit_2_icon.png/revision/latest?cb=20220417062630" />
+  <img align="left" alt="CoreML" width="60px" height="60px" src="https://developer.apple.com/assets/elements/icons/core-ml/core-ml-128x128_2x.png" />
+  <img align="left" alt="SwiftData" width="60px" height="60px" src="https://developer.apple.com/assets/elements/icons/swiftdata/swiftdata-96x96_2x.png" />
+  <img align="left" alt="Metal" width="60px" height="60px" src="https://developer.apple.com/assets/elements/icons/metal/metal-96x96_2x.png" />
+  <img align="left" alt="Apple Intelligence" width="60px" height="60px" src="https://developer.apple.com/assets/elements/icons/apple-intelligence/apple-intelligence-96x96_2x.png" />
+</div>
