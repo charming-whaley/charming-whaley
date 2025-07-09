@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=B1361E&labelColor=black" />
   </a>
   <a href="https://codeforces.com/profile/charming_whaley">
-    <img src="https://img.shields.io/badge/Codeforces-F01F7A?style=for-the-badge&logo=codeforces&logoColor=F01F7A&labelColor=black" />
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=1F8ACB&labelColor=black" />
   </a>
 </div>
 
