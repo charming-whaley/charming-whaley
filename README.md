@@ -1,5 +1,5 @@
 ## 🏄🏻‍♂️ Hi there!
-<p>💫 I'm Fedya, an indie iOS and C++ developer with some experience in Data Science. All my projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. In some case Codewars/Codeforces enjoyer</p>
+<p>💫 I'm Fedya, an indie iOS and C++ developer with some experience in Data Science. All my projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. Codewars/Codeforces enjoyer</p>
 <div align="center">
   <p><b>You may find me here</b></p>
   <a href="https://www.linkedin.com/in/katkov-fedor/">
@@ -18,7 +18,7 @@
 
 ## 🧑‍💻 Tech Stack
 
-<p align="center">Technologies I use for every-day development</p>
+<p align="center"><b>Technologies I use for every-day development</b></p>
 <table align="center">
   <tr>
     <td align="center">
