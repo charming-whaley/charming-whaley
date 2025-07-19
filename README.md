@@ -1,5 +1,5 @@
 ## 🏄🏻‍♂️ Hi there!
-<p>Hi, I'm Fedya — an iOS and C++ developer with a growing focus on Machine learning. I enjoy building things from the ground up — from first sketches to real-world solutions. I spend a fair bit of time on Codeforces, Codewars and Kaggle, just for the fun (and the challenge) of it.</p>
+<p>Hi, I'm Fedya — an iOS and C++ developer with a growing focus on Machine Learning engineering. I enjoy building things from the ground up — from first sketches to real-world solutions. I spend a fair bit of time on Codeforces, Codewars and Kaggle, just for the fun and challenge of it</p>
 
 <div align="center">
   <p><b>You may find me here</b></p>
@@ -33,6 +33,12 @@
     </td>
     <td align="center">
       <img src="https://developer.apple.com/assets/elements/icons/core-ml/core-ml-128x128_2x.png" width="60px"><br/>CoreML
+    </td>
+        <td align="center">
+      <img src="https://cdn.simpleicons.org/pandas/150458" width="60px"><br/>Pandas
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/streamlit/ff4b4b" width="60px"><br/>Streamlit
     </td>
     <td align="center">
       <img src="https://developer.apple.com/assets/elements/icons/swiftdata/swiftdata-96x96_2x.png" width="60px"><br/>SwiftData
