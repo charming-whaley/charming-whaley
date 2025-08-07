@@ -38,13 +38,7 @@
       <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="60px"><br />Scikit
     </td>
     <td align="center">
-      <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="60px"><br />Tensorflow
-    </td>
-    <td align="center">
       <img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="60px"><br />OpenCV
-    </td>
-    <td align="center">
-      <img src="https://cdn.simpleicons.org/streamlit/ff4b4b" width="60px"><br/>Streamlit
     </td>
     <td align="center">
       <img src="https://developer.apple.com/assets/elements/icons/metal/metal-96x96_2x.png" width="60px"><br/>Metal
