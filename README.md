@@ -12,9 +12,6 @@
   <a href="https://www.codewars.com/users/charming_whaley">
     <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&labelColor=black" />
   </a>
-  <a href="https://codeforces.com/profile/charming_whaley">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&labelColor=black" />
-  </a>
   <a href="https://www.kaggle.com/fedyakatkov">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&labelColor=black&logoColor=20BEFF" />
   </a>
