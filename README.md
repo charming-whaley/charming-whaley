@@ -1,5 +1,5 @@
 ## 🏄🏻‍♂️ Hi there!
-<p>Hi, I'm Fedya — an iOS and C++ developer with a growing focus on Machine Learning engineering. I enjoy building things from the ground up — from first sketches to real-world solutions. I spend a fair bit of time on Codeforces, Codewars and Kaggle, just for the fun and challenge of it</p>
+<p>Hi, I'm Fedya — an iOS and C++/Rust developer with a growing focus on Machine Learning. I enjoy building things from the ground up from first sketches to real-world solutions. I spend a fair bit of time on Codewars and Kaggle, just for the fun and challenge of it</p>
 
 <div align="center">
   <p><b>You may find me here</b></p>
@@ -23,25 +23,19 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" width="60px"><br/>SwiftUI
+      <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" width="56px"><br/>SwiftUI
     </td>
     <td align="center">
-      <img src="https://static.wikia.nocookie.net/ipod/images/d/d1/ARKit_2_icon.png/revision/latest?cb=20220417062630" width="60px"><br/>ARKit
+      <img src="https://cdn.simpleicons.org/rust/FAA918" width="56px"><br/>Rust
     </td>
     <td align="center">
-      <img src="https://developer.apple.com/assets/elements/icons/core-ml/core-ml-128x128_2x.png" width="60px"><br/>CoreML
-    </td>
-        <td align="center">
-      <img src="https://cdn.simpleicons.org/pandas/150458" width="60px"><br/>Pandas
+      <img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="56px"><br />OpenCV
     </td>
     <td align="center">
-      <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="60px"><br />Scikit
+      <img src="https://developer.apple.com/assets/elements/icons/core-ml/core-ml-128x128_2x.png" width="56px"><br/>CoreML
     </td>
     <td align="center">
-      <img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="60px"><br />OpenCV
-    </td>
-    <td align="center">
-      <img src="https://developer.apple.com/assets/elements/icons/metal/metal-96x96_2x.png" width="60px"><br/>Metal
+      <img src="https://developer.apple.com/assets/elements/icons/metal/metal-96x96_2x.png" width="56px"><br/>Metal
     </td>
   </tr>
 </table>
