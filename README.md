@@ -3,7 +3,7 @@
 
 <div align="center">
   <p><b>You may find me here</b></p>
-  <a href="www.linkedin.com/in/fskatkov">
+  <a href="https://www.linkedin.com/in/fskatkov/">
     <img src="https://img.shields.io/badge/LinkedIn-0032A0?style=for-the-badge&labelColor=black" />
   </a>
   <a href="https://leetcode.com/u/charming_whaley/">
