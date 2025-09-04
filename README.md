@@ -16,26 +16,3 @@
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&labelColor=black&logoColor=20BEFF" />
   </a>
 </div>
-
-<br />
-
-<p align="center"><b>Technologies I use for every-day development</b></p>
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" width="56px"><br/>SwiftUI
-    </td>
-    <td align="center">
-      <img src="https://cdn.simpleicons.org/rust/FAA918" width="56px"><br/>Rust
-    </td>
-    <td align="center">
-      <img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="56px"><br />OpenCV
-    </td>
-    <td align="center">
-      <img src="https://developer.apple.com/assets/elements/icons/core-ml/core-ml-128x128_2x.png" width="56px"><br/>CoreML
-    </td>
-    <td align="center">
-      <img src="https://developer.apple.com/assets/elements/icons/metal/metal-96x96_2x.png" width="56px"><br/>Metal
-    </td>
-  </tr>
-</table>
