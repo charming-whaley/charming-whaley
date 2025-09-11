@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/fskatkov/">
     <img src="https://img.shields.io/badge/LinkedIn-0032A0?style=for-the-badge&labelColor=black" />
   </a>
-  <a href="">
+  <a href="https://leetcode.com/u/fskatkov/">
     <img src="https://img.shields.io/badge/Leetcode-FFA116?style=for-the-badge&labelColor=black" />
   </a>
 </div>
